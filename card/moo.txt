@@ -1,0 +1,4 @@
+Photo size & resolution recommendations
+---------------------------------------
+Product               | Minimum (96dpi)  | Recommended (300dpi)
+Square Business Cards | 261 x 261 pixels | 813 x 813 pixels
