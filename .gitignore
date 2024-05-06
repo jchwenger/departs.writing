@@ -3,3 +3,6 @@
 *.sw*
 
 recordings
+
+# MacOS
+**/.DS_Store
