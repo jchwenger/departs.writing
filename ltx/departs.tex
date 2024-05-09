@@ -19,9 +19,9 @@
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 
 \usepackage[
-  paperwidth=297mm, % A4 large side
-  paperheight=960mm,
-  margin=100mm
+  paperwidth=210mm, % A4 small side
+  paperheight=875mm,
+  margin=56.5mm
 ]{geometry}
 
 \usepackage{graphics}
@@ -43,18 +43,50 @@
 
 \maketitle
 
+\begin{figure}[h]
+  \centering
+  \includegraphics{qr}
+\end{figure}
+
 \vfill
 
 \noindent Forward/backward neural writing\\
 Accompanying stereophonic web app
 \\
+
+\noindent Python/TensorFlow/p5.js
+
+\noindent Models: OpenAI's GPT-3 (forward); a French GPT-2 model (774m) trained
+from scratch on open-source datasets (backward)
 \\
-Python/TensorFlow/p5.js
 
-\noindent Models: OpenAI's GPT-3 (forward); a French GPT-2 model (774m)
-trained from scratch on open-source datasets (backward)
+\noindent The idea for this form arose during the development of another
+project, \emph{CHATBOT}, during which we experimented with training neural
+networks forward and backward in order to find colliding textual trajectories
+in a live context (incidentally, these experiments ultimately led to ``Arrows
+of Time for Large Language Models'', arXiv:2401.17505). Being interested in
+potential applications for writing, I started exploring the consequences of
+forward and backward time in a constructed narrative context, using the output
+of neural networks as a writing trigger, or reservoir of synthetic imagination.
 
-\includegraphics{qr}
+In this first attempt, a single nucleus sentence, ``Je partis de Lausanne, pour
+ne jamais revenir.'', is used as the starting point for two fictional
+microverses: one moving forward, the other backward, in the time of
+composition. This creates a natural link, or pivot, between the two, hopefully
+giving rise to questions regarding the identity and relationship of the two
+narrators. Another formal idea came during the composition, directly inspired
+by the original planned context for the piece (a stereophonic audio recording):
+the addition of mirrored passages within each texts, here only present in an
+incipient form. This overlay points to yet another possible time structure: two
+parallel, reversed timelines that coincide during specific moments, before
+diverging again.
+
+The stereophonic recording available in the app provides an auditory interface
+to this literary form. The bottom third of the app acts as a play/pause button,
+the middle of the screen selects the location in the track, and finally the top
+control allows listeners to shift the pan, and therefore their focus, to one
+voice or the other, or experience a mixture of the two.
+\\
 
 \newpage
 

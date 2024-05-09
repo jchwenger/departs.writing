@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.8)  7 MAY 2024 11:32
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.11.8)  9 MAY 2024 11:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -591,15 +591,15 @@ LaTeX Font Info:    ... okay on input line 42.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(284.52756pt, 275.99173pt, 284.52756pt)
-* v-part:(T,H,B)=(284.52756pt, 2162.40944pt, 284.52756pt)
-* \paperwidth=845.04684pt
-* \paperheight=2731.46455pt
-* \textwidth=275.99173pt
-* \textheight=2162.40944pt
-* \oddsidemargin=212.25757pt
-* \evensidemargin=212.25757pt
-* \topmargin=173.07635pt
+* h-part:(L,W,R)=(160.75806pt, 275.99176pt, 160.75806pt)
+* v-part:(T,H,B)=(160.75806pt, 2168.10002pt, 160.75806pt)
+* \paperwidth=597.50787pt
+* \paperheight=2489.61613pt
+* \textwidth=275.99176pt
+* \textheight=2168.10002pt
+* \oddsidemargin=88.48807pt
+* \evensidemargin=88.48807pt
+* \topmargin=49.30685pt
 * \headheight=17.5pt
 * \headsep=21.68121pt
 * \topskip=14.4pt
@@ -646,182 +646,220 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 44.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 44.
+File: ./images/qr.png Graphic file (type bmp)
+<./images/qr.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--53
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
 
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 54--56
+Underfull \hbox (badness 1348) in paragraph at lines 59--62
 \TU/CormorantGaramond(0)/m/n/14.4 GPT-2 model (774m) trained from scratch on
  []
 
-File: ./images/qr.png Graphic file (type bmp)
-<./images/qr.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--62
+
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 63--71
+\TU/CormorantGaramond(0)/m/n/14.4 opment of another project, \TU/CormorantGaram
+ond(0)/m/it/14.4 CHATBOT\TU/CormorantGaramond(0)/m/n/14.4 , during
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 63--71
+\TU/CormorantGaramond(0)/m/n/14.4 which we experimented with training neural
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 63--71
+\TU/CormorantGaramond(0)/m/n/14.4 colliding textual trajectories in a live cont
+ext
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 63--71
+\TU/CormorantGaramond(0)/m/n/14.4 (incidentally, these experiments ultimately l
+ed
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 84--90
+\TU/CormorantGaramond(0)/m/n/14.4 play/pause button, the middle of the screen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--90
+
+ []
+
 [1
 
 ]
-Underfull \hbox (badness 1552) in paragraph at lines 63--74
+Underfull \hbox (badness 1552) in paragraph at lines 95--106
 \TU/CormorantGaramond(0)/m/n/14.4 l’océan Atlantique, dans quelque anfractuosit
 é
  []
 
 
-Underfull \hbox (badness 3557) in paragraph at lines 63--74
+Underfull \hbox (badness 3557) in paragraph at lines 95--106
 \TU/CormorantGaramond(0)/m/n/14.4 ou dans l’hôtel miteux du port terrestre de
  []
 
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 87.
+(Font)              <14.4> on input line 119.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 87.
+(Font)              <7> on input line 119.
 
-Underfull \hbox (badness 2913) in paragraph at lines 86--100
+Underfull \hbox (badness 2913) in paragraph at lines 118--132
 \TU/CormorantGaramond(0)/m/n/14.4 dans ce que les historiens du XXII$[]$ siècle
 
  []
 
 
-Underfull \hbox (badness 3219) in paragraph at lines 86--100
+Underfull \hbox (badness 3219) in paragraph at lines 118--132
 \TU/CormorantGaramond(0)/m/n/14.4 un terme convenu, genre « planétisation du
  []
 
 
-Underfull \hbox (badness 2057) in paragraph at lines 86--100
+Underfull \hbox (badness 2057) in paragraph at lines 118--132
 \TU/CormorantGaramond(0)/m/n/14.4 autres, auraient pu changer quoi que ce soit
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 105--111
+Underfull \hbox (badness 1648) in paragraph at lines 137--143
 \TU/CormorantGaramond(0)/m/n/14.4 et pour autant que tu ne t’enferres pas dans
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 105--111
+Underfull \hbox (badness 1147) in paragraph at lines 137--143
 \TU/CormorantGaramond(0)/m/n/14.4 pas à choisir. Tu accepteras enfin ce que tu
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 105--111
+Underfull \hbox (badness 1496) in paragraph at lines 137--143
 \TU/CormorantGaramond(0)/m/n/14.4 propres idées, qui ne seront pas les miennes,
 
  []
 
 
-Underfull \hbox (badness 4569) in paragraph at lines 112--120
+Underfull \hbox (badness 4569) in paragraph at lines 144--152
 \TU/CormorantGaramond(0)/m/n/14.4 de lamentations que les populations de ton
  []
 
 
-Underfull \hbox (badness 3701) in paragraph at lines 112--120
+Underfull \hbox (badness 3701) in paragraph at lines 144--152
 \TU/CormorantGaramond(0)/m/n/14.4 esprit seront plus contraintes que jamais de
  []
 
 [2]
-Underfull \hbox (badness 7814) in paragraph at lines 150--164
+Underfull \hbox (badness 7814) in paragraph at lines 182--196
 []\TU/CormorantGaramond(0)/m/n/14.4 « Supprimons par la force ces infâmes
  []
 
 
-Underfull \hbox (badness 4543) in paragraph at lines 150--164
+Underfull \hbox (badness 4543) in paragraph at lines 182--196
 \TU/CormorantGaramond(0)/m/n/14.4 ordures qui menacent de molester la Pierre
  []
 
 
-Underfull \hbox (badness 3547) in paragraph at lines 150--164
+Underfull \hbox (badness 3547) in paragraph at lines 182--196
 \TU/CormorantGaramond(0)/m/n/14.4 tous, même si peu d’entre nous le savaient.
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 165--181
+Underfull \hbox (badness 1635) in paragraph at lines 197--213
 []\TU/CormorantGaramond(0)/m/n/14.4 Et alors même que la crise s’aggravait, et
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 165--181
+Underfull \hbox (badness 2913) in paragraph at lines 197--213
 \TU/CormorantGaramond(0)/m/n/14.4 dans ce que les historiens du XXII$[]$ siècle
 
  []
 
 
-Underfull \hbox (badness 2809) in paragraph at lines 165--181
+Underfull \hbox (badness 2809) in paragraph at lines 197--213
 \TU/CormorantGaramond(0)/m/n/14.4 pour désigner le flux naissant des siècles de
 
  []
 
 
-Underfull \hbox (badness 8075) in paragraph at lines 182--186
+Underfull \hbox (badness 8075) in paragraph at lines 214--218
 \TU/CormorantGaramond(0)/m/n/14.4 repasser en revue mentalement, comme un
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 182--186
+Underfull \hbox (badness 1389) in paragraph at lines 214--218
 \TU/CormorantGaramond(0)/m/n/14.4 mantra protecteur, les étapes de l’architectu
 re
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 187--192
+Underfull \hbox (badness 1460) in paragraph at lines 219--224
 \TU/CormorantGaramond(0)/m/n/14.4 brasier, que j’étais devenu ami avec ceux que
 
  []
 
 
-Underfull \hbox (badness 1097) in paragraph at lines 193--197
+Underfull \hbox (badness 1097) in paragraph at lines 225--229
 []\TU/CormorantGaramond(0)/m/n/14.4 Car bien que je les aie aimés ardemment,
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 193--197
+Underfull \hbox (badness 1430) in paragraph at lines 225--229
 \TU/CormorantGaramond(0)/m/n/14.4 je n’aurais pu dire avoir été lié d’amitié av
 ec
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 193--197
+Underfull \hbox (badness 2538) in paragraph at lines 225--229
 \TU/CormorantGaramond(0)/m/n/14.4 notre fascination mutuelle, que j’avais trouv
 é
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 193--197
+Underfull \hbox (badness 1596) in paragraph at lines 225--229
 \TU/CormorantGaramond(0)/m/n/14.4 mon bonheur durant les premières années de
  []
 
 
-Underfull \hbox (badness 1796) in paragraph at lines 206--211
+Underfull \hbox (badness 1796) in paragraph at lines 238--243
 []\TU/CormorantGaramond(0)/m/n/14.4 Ma vie avait été lamentable, et mes buts
  []
 
 
-Underfull \hbox (badness 1681) in paragraph at lines 212--225
+Underfull \hbox (badness 1681) in paragraph at lines 244--257
 \TU/CormorantGaramond(0)/m/n/14.4 m’adorais moi-même, alors un obstacle insur-
  []
 
 
-Underfull \hbox (badness 6078) in paragraph at lines 212--225
+Underfull \hbox (badness 6078) in paragraph at lines 244--257
 \TU/CormorantGaramond(0)/m/n/14.4 j’accueillais la grande influence qu’elle all
 ait
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 226--233
+Underfull \hbox (badness 3138) in paragraph at lines 258--265
 \TU/CormorantGaramond(0)/m/n/14.4 c’était de la joie, une joie violente, souven
 t
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 226--233
+Underfull \hbox (badness 1400) in paragraph at lines 258--265
 \TU/CormorantGaramond(0)/m/n/14.4 mes ancêtres d’élection, toujours avec moi en
 
  []
 
 [3] (o/departs.aux) ) 
 Here is how much of TeX's memory you used:
- 12568 strings out of 476683
- 239076 string characters out of 5804047
+ 12569 strings out of 476683
+ 239092 string characters out of 5804047
  1869018 words of memory out of 5000000
- 32709 multiletter control sequences out of 15000+600000
+ 32710 multiletter control sequences out of 15000+600000
  555762 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  72i,10n,111p,255b,248s stack positions out of 10000i,1000n,20000p,200000b,200000s
